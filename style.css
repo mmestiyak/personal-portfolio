@@ -170,6 +170,7 @@ section {
 }
 .project .heading-tertiary {
   margin: 2rem 0 0.5rem 0;
+  font-family: Lato, sans-serif;
   font-weight: 700;
 }
 .project p {
@@ -211,6 +212,7 @@ section {
 .cta .btn {
   float: right;
   margin-top: -10.5%;
+  font-weight: bold;
 }
 
 .footer {
